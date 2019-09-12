@@ -59,10 +59,7 @@ As long as we live, we can all (test) deal with emergencies. In the case of any 
 
 ## Wireframes
 
-<img src="https://drive.google.com/open?id=1-XTtWYaZHo9HjBZKqwW8BfoQ3taDEOan" width=800><br>
-
-
-
+"https://drive.google.com/open?id=1-XTtWYaZHo9HjBZKqwW8BfoQ3taDEOan
 
 [BONUS] Digital Wireframes & Mockups
 https://drive.google.com/open?id=1dUItcAHv1f-8TUbtOaAMCm_sQuC2e48H
