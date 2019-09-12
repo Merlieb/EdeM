@@ -31,5 +31,42 @@ As long as we live, we can all (test) deal with emergencies. In the case of any 
 
 **Optional Nice-to-have Stories**
 
-My nearest Hospitals, police stations and firefighters / The institutions of each user to contact in case of emergency offline due to their residual address.
+* My nearest Hospitals, police stations and firefighters / The institutions of each user to contact in case of emergency offline due to their residual address.
+* Contact us in case the users need help or have questions / This will be via a mail box or an automatic call.
+
+### 2. Screen Archetypes
+
+* Start the screen to have an emergency service.
+
+### 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+**Tab navigation (on-screen tab)
+
+* Home and emergency buttons to contact
+* List of hospitals
+* List of police stations
+* List of firefighters
+* Settings
+
+**Wireframes
+
+https://drive.google.com/open?id=1-XTtWYaZHo9HjBZKqwW8BfoQ3taDEOan
+
+
+[BONUS] Digital Wireframes & Mockups
+https://drive.google.com/open?id=1dUItcAHv1f-8TUbtOaAMCm_sQuC2e48H
+
+
+[BONUS] Interactive Prototype
+https://imgur.com/IC1IQDF
+
+* Hospital List Screen
+* Police Station List Screen
+* Fireman's List Screen
+* Profile screen of each hospital, police station and firefighter / To allow users to identify different hospitals, police stations and firefighters and provide them with all necessary information
+* Screen for the map of each institution / can guide the user.
+* Settings screen
+* Allows users who are well versed in our public policies, to learn much more about our services to have instructions on our App and to access the application notification settings.
 
