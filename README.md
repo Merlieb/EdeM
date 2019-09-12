@@ -37,6 +37,13 @@ As long as we live, we can all (test) deal with emergencies. In the case of any 
 ### 2. Screen Archetypes
 
 * Start the screen to have an emergency service.
+* Hospital List Screen
+* Police Station List Screen
+* Fireman's List Screen
+* Profile screen of each hospital, police station and firefighter / To allow users to identify different hospitals, police stations and firefighters and provide them with all necessary information
+* Screen for the map of each institution / can guide the user.
+* Settings screen
+* Allows users who are well versed in our public policies, to learn much more about our services to have instructions on our App and to access the application notification settings.
 
 ### 3. Navigation
 
@@ -50,7 +57,7 @@ As long as we live, we can all (test) deal with emergencies. In the case of any 
 * List of firefighters
 * Settings
 
-**Wireframes
+## Wireframes
 
 https://drive.google.com/open?id=1-XTtWYaZHo9HjBZKqwW8BfoQ3taDEOan
 
@@ -61,12 +68,4 @@ https://drive.google.com/open?id=1dUItcAHv1f-8TUbtOaAMCm_sQuC2e48H
 
 [BONUS] Interactive Prototype
 https://imgur.com/IC1IQDF
-
-* Hospital List Screen
-* Police Station List Screen
-* Fireman's List Screen
-* Profile screen of each hospital, police station and firefighter / To allow users to identify different hospitals, police stations and firefighters and provide them with all necessary information
-* Screen for the map of each institution / can guide the user.
-* Settings screen
-* Allows users who are well versed in our public policies, to learn much more about our services to have instructions on our App and to access the application notification settings.
 
